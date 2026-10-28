@@ -313,6 +313,7 @@ These tools enhance your English learning experience with interactive features a
 - [BeLikeNative](https://yvoronoy.github.io/awesome-english/go/belikenative/) - L1-aware grammar and style checker that helps non-native speakers write natural English. Available as a Chrome extension.
 - [YouGlish](https://yvoronoy.github.io/awesome-english/go/youglish/) - Learn word pronunciation from real-world videos.
 - [Visuwords](https://yvoronoy.github.io/awesome-english/go/visuwords/) - Visual dictionary showing word relationships and connections.
+- [English Chunk Flow](https://github.com/oeniao/english-chunk-flow) - Open-source AI agent skill (requires a Codex/Cursor-compatible host with local script access) that turns English text or audio with a transcript into listening lessons with grammar chunks, sentence replay, and explanations in eight languages.
 
 ### Assessment Tools 📊
 - [Test Your Vocab](https://yvoronoy.github.io/awesome-english/go/test-your-vocab/) - Estimate your English vocabulary size.
